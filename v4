@@ -51,7 +51,7 @@ int main(void)
 		}
 		float floatv=atof(g);
 	    d[f++]=floatv;
-	}我去
+	}
 	char *po=cb;
 	float *pod=d;
 	while(*po!='\0')
